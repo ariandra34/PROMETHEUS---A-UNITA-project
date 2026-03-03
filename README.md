@@ -6,11 +6,11 @@ PROMETHEUS is a project funded through the second call of the UNITA Starting Tec
 
 ## Features
 
--**Data Preprossessing Pipeline**: Clean and prepare meteorological and PV production data
+-**Data Preprossessing Pipeline**: Cleaning and preparation of the meteorological and PV production data
 
 -**Linear Interpolation validation**: Validation of the interpolation method used in the preprocessing to handle missing data points 
 
--**Physics-Based Model**: Convert the measure Global Horizontal Irradiance (GHI)  and other meteorological data into PV output using physical considerations
+-**Physics-Based Model**: Convertion of the measured Global Horizontal Irradiance (GHI)  and other meteorological data into PV output using physical considerations
 
 -**Sequential Neural Network**: Deep learning model for temporal predictions
 
